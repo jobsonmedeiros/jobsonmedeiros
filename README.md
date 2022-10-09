@@ -16,8 +16,7 @@ Acredito que eu consiga trabalhar em qualquer stack, embora prefira back-end por
 
 - 🌱 Revisando programação web: HTML, JS, CSS, bancos de dados MS SQLServer e MySQL. Front com Bootstrap e SAAS. Back com NodeJS.
 
-<img src="img/html-css-js.png" width="15%" height="15%" />
-<img src="img/bootstrap.png" width="20%" height="20%" />
+<img src="img/html-css-js.png" width="15%" height="15%" /><img src="img/bootstrap.png" width="20%" height="20%" />
 <img src="img/sass.png" width="15%" height="15%" />
 <img src="img/sql-server.png" width="20%" height="20%" />
 <img src="img/mysql.png" width="20%" height="20%" />
