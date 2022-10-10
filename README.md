@@ -10,8 +10,9 @@ Atualmente estou buscando uma oportunidade para ingressar em TI. Me formei em 20
 <p align="middle"><img src="img/gatinho-programador.gif" width="60%" height="60%"/>
 </p>
 
+<p align="middle">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jobsonmedeiros&layout=compact)](https://github.com/jobsonmedeiros/github-readme-stats)
-
+</p>
 # Stack
 Acredito que eu consiga trabalhar em qualquer stack, embora prefira back-end por estar realizando a revisão através do curso que tem foco nessa stack.
 - 👀 Desenvolvimento de Sistemas Web com foco em back-end.
