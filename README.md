@@ -12,6 +12,7 @@ Atualmente estou buscando uma oportunidade para ingressar em TI. Me formei em 20
 
 ![Jobson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobsonmedeiros&show_icons=true&theme=radical)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jobsonmedeiros&repo=github-readme-stats)](https://github.com/jobsonmedeiros/github-readme-stats)
 # Stack
 Acredito que eu consiga trabalhar em qualquer stack, embora prefira back-end por estar realizando a revisão através do curso que tem foco nessa stack.
 - 👀 Desenvolvimento de Sistemas Web com foco em back-end.
