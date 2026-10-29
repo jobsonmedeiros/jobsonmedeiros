@@ -16,15 +16,15 @@ João Pessoa, PB
 
 ## Sobre mim
 
-Combino a formação em Sistemas de Informação com o raciocínio analítico desenvolvido na Matemática para criar soluções tecnológicas práticas, eficientes e com foco em resultado.
+Sou desenvolvedor com formação em Sistemas de Informação e base sólida em Matemática, o que me ajuda a pensar de forma lógica, analítica e estruturada na criação de soluções digitais.
 
-Tenho especial interesse em desenvolvimento web, back-end e na construção de produtos digitais que resolvem problemas reais e entregam valor ao usuário.
+Tenho paixão por transformar ideias em produtos funcionais, bem projetados e com foco em experiência do usuário. Meu trabalho está centrado em desenvolvimento web e back-end, com atenção especial para qualidade, organização e eficiência.
 
-Minha rotina é guiada por curiosidade, atenção aos detalhes e vontade de aprender continuamente. Acredito que a tecnologia deve ser útil, acessível e bem pensada, tanto do ponto de vista funcional quanto da experiência de uso.
+Acredito que tecnologia deve ser prática, útil e pensada para resolver problemas reais, seja por meio de interfaces intuitivas, automações ou sistemas bem arquitetados.
 
 ---
 
-## Tecnologias
+## Stack
 
 ### Desenvolvimento Web
 `JavaScript` · `TypeScript` · `React` · `Node.js` · `HTML` · `CSS` · `Bootstrap` · `Vite`
@@ -40,16 +40,18 @@ Minha rotina é guiada por curiosidade, atenção aos detalhes e vontade de apre
 ## Projetos em destaque
 
 ### [Residenciais Plenitude](https://github.com/jobsonmedeiros/residencial-plenitude)
-Catálogo imobiliário com busca por apartamentos, contato via WhatsApp e painel administrativo para gestão dos imóveis.  
+Aplicação para catálogo imobiliário com busca por apartamentos, contato via WhatsApp e painel administrativo para gestão dos imóveis.
+
 **Tecnologias:** `React` · `TypeScript` · `Vite` · `Supabase`  
 [Ver demonstração](https://jobsonmedeiros.github.io/residencial-plenitude/)
 
 ### [Gerenciador de Finanças Modular](https://github.com/jobsonmedeiros/gerenciador-financas-modular)
-Aplicação modular para controle de finanças pessoais, desenvolvida como estudo prático em back-end e organização de código.  
+Sistema modular para controle de finanças pessoais, desenvolvido como estudo prático em organização de código e lógica de negócio.
+
 **Tecnologias:** `Python` · `SQLite`
 
 ### [Projeto IGTI](https://github.com/jobsonmedeiros/projetoIGTI)
-Projeto web colaborativo com funcionalidades de cadastro, consulta, atualização e exclusão de dados, com foco em desenvolvimento de interfaces e lógica de negócio.
+Projeto web colaborativo com funcionalidades de cadastro, consulta, atualização e exclusão de dados, com foco em usabilidade e desenvolvimento de interfaces.
 
 ---
 
@@ -64,3 +66,7 @@ Projeto web colaborativo com funcionalidades de cadastro, consulta, atualizaçã
 
 - [LinkedIn](https://www.linkedin.com/in/jobsonmedeiros/)
 - [GitHub](https://github.com/jobsonmedeiros)
+
+---
+
+"Transformo tecnologia em soluções claras, úteis e com impacto real."
