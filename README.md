@@ -1,14 +1,14 @@
 <div align="center">
 
-# Jobson Morais de Medeiros
+# Jobson Medeiros
 
-**Bacharel em Sistemas de Informação · Licenciado em Matemática**
+**Estudando desenvolvimento web · React, TypeScript e Python**
 
-Desenvolvedor Web e Back-end
+Bacharel em Sistemas de Informação · Licenciado em Matemática
 
-João Pessoa, PB
+João Pessoa, PB · Aberto a oportunidades
 
-[LinkedIn](https://www.linkedin.com/in/jobsonmedeiros/) · [GitHub](https://github.com/jobsonmedeiros)
+[LinkedIn](https://www.linkedin.com/in/jobsonmedeiros/) · [E-mail](mailto:jobsonmm@gmail.com)
 
 </div>
 
@@ -16,57 +16,48 @@ João Pessoa, PB
 
 ## Sobre mim
 
-Sou desenvolvedor com formação em Sistemas de Informação e base sólida em Matemática, o que me ajuda a pensar de forma lógica, analítica e estruturada na criação de soluções digitais.
+Sou bacharel em Sistemas de Informação e licenciado em Matemática. Estou retomando os estudos em desenvolvimento de software e criando projetos próprios com apoio de ferramentas de inteligência artificial.
 
-Tenho paixão por transformar ideias em produtos funcionais, bem projetados e com foco em experiência do usuário. Meu trabalho está centrado em desenvolvimento web e back-end, com atenção especial para qualidade, organização e eficiência.
-
-Acredito que tecnologia deve ser prática, útil e pensada para resolver problemas reais, seja por meio de interfaces intuitivas, automações ou sistemas bem arquitetados.
+Tenho estudado React, TypeScript, Python e SQL. Nos projetos, venho praticando desenvolvimento web, organização de código e uso de bancos de dados.
 
 ---
 
 ## Stack
 
-### Desenvolvimento Web
-`JavaScript` · `TypeScript` · `React` · `Node.js` · `HTML` · `CSS` · `Bootstrap` · `Vite`
-
-### Back-end e Dados
-`Python` · `SQL` · `MySQL` · `SQL Server` · `SQLite`
-
-### Ferramentas
-`Git` · `GitHub`
+| Área | Tecnologias |
+|---|---|
+| Front-end | `React` `TypeScript` `JavaScript` `HTML` `CSS` `Bootstrap` `Vite` |
+| Back-end | `Node.js` `Python` |
+| Banco de dados | `PostgreSQL (Supabase)` `MySQL` `SQL Server` `SQLite` |
+| Ferramentas | `Git` `GitHub` |
 
 ---
 
 ## Projetos em destaque
 
-### [Residenciais Plenitude](https://github.com/jobsonmedeiros/residencial-plenitude)
-Aplicação para catálogo imobiliário com busca por apartamentos, contato via WhatsApp e painel administrativo para gestão dos imóveis.
+### [Residenciais Plenitude](https://github.com/jobsonmedeiros/residencial-plenitude) · [Demo](https://jobsonmedeiros.github.io/residencial-plenitude/)
 
-**Tecnologias:** `React` · `TypeScript` · `Vite` · `Supabase`  
-[Ver demonstração](https://jobsonmedeiros.github.io/residencial-plenitude/)
+Catálogo de apartamentos com busca, contato via WhatsApp e painel administrativo para gestão dos imóveis.
+
+- **Objetivo:** reunir a consulta pública dos imóveis e a gestão do catálogo pela equipe.
+- **Destaque técnico:** autenticação administrativa e políticas de acesso com Supabase Row Level Security (RLS).
+
+`React` `TypeScript` `Vite` `Supabase`
 
 ### [Gerenciador de Finanças Modular](https://github.com/jobsonmedeiros/gerenciador-financas-modular)
-Sistema modular para controle de finanças pessoais, desenvolvido como estudo prático em organização de código e lógica de negócio.
 
-**Tecnologias:** `Python` · `SQLite`
+Aplicação modular para registrar receitas e despesas e consultar resumos por período e categoria, com regras de negócio, persistência e interface organizadas em módulos distintos.
+
+`Python` `SQLite`
 
 ### [Projeto IGTI](https://github.com/jobsonmedeiros/projetoIGTI)
-Projeto web colaborativo com funcionalidades de cadastro, consulta, atualização e exclusão de dados, com foco em usabilidade e desenvolvimento de interfaces.
 
----
+Projeto web colaborativo com funcionalidades de cadastro, consulta, atualização e exclusão de dados.
 
-## Formação
-
-- Bacharelado em Sistemas de Informação
-- Licenciatura em Matemática
+`HTML` `CSS` `JavaScript` `Bootstrap` `Node.js`
 
 ---
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/jobsonmedeiros/)
-- [GitHub](https://github.com/jobsonmedeiros)
-
----
-
-"Transformo tecnologia em soluções claras, úteis e com impacto real."
+Estou me preparando para oportunidades de nível júnior. Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/jobsonmedeiros/) ou por [e-mail](mailto:jobsonmm@gmail.com).
