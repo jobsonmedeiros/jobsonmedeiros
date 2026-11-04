@@ -1,14 +1,14 @@
 <div align="center">
 
-# Jobson Medeiros
+# Jobson Morais de Medeiros
 
-**Estudando desenvolvimento web · React, TypeScript e Python**
+**Desenvolvimento web · React, TypeScript e Python**
 
 Bacharel em Sistemas de Informação · Licenciado em Matemática
 
 João Pessoa, PB · Aberto a oportunidades
 
-[LinkedIn](https://www.linkedin.com/in/jobsonmedeiros/) · [E-mail](mailto:jobsonmm@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jobsonmedeiros/) · [E-mail](mailto:jobsonmm@gmail.com) · [About Me](https://about.me/jobson)
 
 </div>
 
