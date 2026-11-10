@@ -2,13 +2,15 @@
 
 # Jobson Morais de Medeiros
 
-**Desenvolvimento web · React, TypeScript e Python**
+**Desenvolvimento Web · React, TypeScript e Python**
 
 Bacharel em Sistemas de Informação · Licenciado em Matemática
 
 João Pessoa, PB · Aberto a oportunidades
 
-[LinkedIn](https://www.linkedin.com/in/jobsonmedeiros/) · [E-mail](mailto:jobsonmm@gmail.com) · [About Me](https://about.me/jobson)
+<a href="https://www.linkedin.com/in/jobsonmedeiros/">LinkedIn</a> ·
+<a href="mailto:jobsonmm@gmail.com">E-mail</a> ·
+<a href="https://about.me/jobson">About Me</a>
 
 </div>
 
@@ -16,7 +18,7 @@ João Pessoa, PB · Aberto a oportunidades
 
 ## Sobre mim
 
-Sou bacharel em Sistemas de Informação e licenciado em Matemática. Estou retomando os estudos em desenvolvimento de software e criando projetos próprios com apoio de ferramentas de inteligência artificial.
+Estou retomando os estudos em desenvolvimento de software e criando projetos próprios com apoio de ferramentas de inteligência artificial.
 
 Tenho estudado React, TypeScript, Python e SQL. Nos projetos, venho praticando desenvolvimento web, organização de código e uso de bancos de dados.
 
@@ -24,40 +26,76 @@ Tenho estudado React, TypeScript, Python e SQL. Nos projetos, venho praticando d
 
 ## Stack
 
-| Área | Tecnologias |
-|---|---|
-| Front-end | `React` `TypeScript` `JavaScript` `HTML` `CSS` `Bootstrap` `Vite` |
-| Back-end | `Node.js` `Python` |
-| Banco de dados | `PostgreSQL (Supabase)` `MySQL` `SQL Server` `SQLite` |
-| Ferramentas | `Git` `GitHub` |
+<div>
+
+### Front-end
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,vite" />
+
+### Back-end
+<img src="https://skillicons.dev/icons?i=nodejs,python" />
+
+### Banco de Dados
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+
+### Ferramentas
+<img src="https://skillicons.dev/icons?i=git,github" />
+
+</div>
 
 ---
 
 ## Projetos em destaque
 
-### [Residenciais Plenitude](https://github.com/jobsonmedeiros/residencial-plenitude) · [Demo](https://jobsonmedeiros.github.io/residencial-plenitude/)
+<div>
+
+### Residenciais Plenitude
+
+🔗 <a href="https://github.com/jobsonmedeiros/residencial-plenitude">Projeto</a> |
+🚀 <a href="https://jobsonmedeiros.github.io/residencial-plenitude/">Demo</a>
 
 Catálogo de apartamentos com busca, contato via WhatsApp e painel administrativo para gestão dos imóveis.
 
 - **Objetivo:** reunir a consulta pública dos imóveis e a gestão do catálogo pela equipe.
 - **Destaque técnico:** autenticação administrativa e políticas de acesso com Supabase Row Level Security (RLS).
 
-`React` `TypeScript` `Vite` `Supabase`
+<img src="https://skillicons.dev/icons?i=react,ts,vite,postgres" />
 
-### [Gerenciador de Finanças Modular](https://github.com/jobsonmedeiros/gerenciador-financas-modular)
+</div>
+
+---
+
+<div>
+
+### Plantão+
+
+🔗 <a href="https://github.com/jobsonmedeiros/plantao-plus">Projeto</a> |
+🚀 <a href="#">Demo</a>
+
+Sistema para gerenciamento de plantões, escalas e acompanhamento de informações operacionais.
+
+- **Objetivo:** centralizar informações e facilitar o controle de plantões.
+- **Destaque técnico:** aplicação web com interface moderna, organização modular e persistência de dados.
+
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs,postgres" />
+
+</div>
+
+---
+
+<div>
+
+### Gerenciador de Finanças Modular
+
+🔗 <a href="https://github.com/jobsonmedeiros/gerenciador-financas-modular">Projeto</a>
 
 Aplicação modular para registrar receitas e despesas e consultar resumos por período e categoria, com regras de negócio, persistência e interface organizadas em módulos distintos.
 
-`Python` `SQLite`
+<img src="https://skillicons.dev/icons?i=python,sqlite" />
 
-### [Projeto IGTI](https://github.com/jobsonmedeiros/projetoIGTI)
-
-Projeto web colaborativo com funcionalidades de cadastro, consulta, atualização e exclusão de dados.
-
-`HTML` `CSS` `JavaScript` `Bootstrap` `Node.js`
+</div>
 
 ---
 
 ## Contato
 
-Estou me preparando para oportunidades de nível júnior. Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/jobsonmedeiros/) ou por [e-mail](mailto:jobsonmm@gmail.com).
+Estou me preparando para oportunidades de nível júnior. Entre em contato pelo <a href="https://www.linkedin.com/in/jobsonmedeiros/">LinkedIn</a> ou por <a href="mailto:jobsonmm@gmail.com">e-mail</a>.
