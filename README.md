@@ -68,8 +68,8 @@ Catálogo de apartamentos com busca, contato via WhatsApp e painel administrativ
 
 ### Plantão+
 
-🔗 <a href="https://github.com/jobsonmedeiros/plantao-plus">Projeto</a> |
-🚀 <a href="#">Demo</a>
+🔗 <a href="https://github.com/jobsonmedeiros/plantao-mais">Projeto</a> |
+🚀 <a href="https://jobsonmedeiros.github.io/plantao-mais/">Demo</a>
 
 Sistema para gerenciamento de plantões, escalas e acompanhamento de informações operacionais.
 
